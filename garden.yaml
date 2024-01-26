@@ -8,5 +8,9 @@ trees:
   harpoon-term.nvim:
     path: ${GARDEN_CONFIG_DIR}
     url: git@gitlab.com:davvid/harpoon-term.nvim
+    gitconfig:
+      remote.publish.pushurl:
+        - git@gitlab.com:davvid/harpoon-term.nvim
+        - git@github.com:davvid/harpoon-term.nvim
     remotes:
       github: git@github.com:davvid/harpoon-term.nvim
