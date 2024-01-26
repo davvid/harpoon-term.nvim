@@ -61,8 +61,3 @@ The [Garden file](garden.yaml) can be used to run lint checks using
 # Run lint checks using "luacheck"
 garden lint
 ```
-
-## Acknowledgements
-
-`telescope-git-grep` was adapted from Telescope's internal
-`telescope/builtin/__git.lua` and `telescope/builtin/__files.lua` modules.
