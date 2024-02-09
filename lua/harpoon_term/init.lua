@@ -16,7 +16,7 @@ end
 
 function M.create_terminal(create_with)
     if not create_with then
-        create_with = ":terminal"
+        create_with = ':terminal'
     end
     local current_id = vim.api.nvim_get_current_buf()
 
