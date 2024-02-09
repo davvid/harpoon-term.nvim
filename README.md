@@ -17,19 +17,19 @@ You can install this plugin using your favorite vim package manager, eg.
 
 **Packer**:
 ```lua
-use({"https://gitlab.com/davvid/harpoon-term.nvim"})
+use({'davvid/harpoon-term.nvim'})
 ```
 
 **lazy**:
 ```lua
 {
-    "https://gitlab.com/davvid/harpoon-term.nvim"
+    'davvid/harpoon-term.nvim'
 }
 ```
 
 **vim-plug**
 ```VimL
-Plug 'https://gitlab.com/davvid/harpoon-term.nvim'
+Plug 'davvid/harpoon-term.nvim'
 ```
 
 ## Usage
@@ -61,3 +61,8 @@ The [Garden file](garden.yaml) can be used to run lint checks using
 # Run lint checks using "luacheck"
 garden lint
 ```
+
+The [github repository](https://github.com/davvid/harpoon-term.nvim)
+is a mirror of the main
+[repository on gitlab](https://gitlab.com/davvid/harpoon-term.nvim)
+where you can file issues and submit merge requests.
