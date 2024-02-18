@@ -110,8 +110,7 @@ function M.valid_index(idx)
     return true
 end
 
-function M.emit_changed()
-end
+function M.emit_changed() end
 
 function M.add_command(cmd)
     local found_idx = get_first_empty_slot()
