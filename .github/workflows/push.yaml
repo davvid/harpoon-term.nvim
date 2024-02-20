@@ -31,7 +31,7 @@ jobs:
       - name: Generate docs
         uses: kdheepak/panvimdoc@main
         with:
-          description: ' Fork of the harpoon.term module from Harpoon v1'
+          description: Quickly jump to terminals
           vimdoc: harpoon-term
           pandoc: README.md
           toc: 'false'

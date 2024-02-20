@@ -1,5 +1,7 @@
 # harpoon-term
 
+Quickly jump to terminals.
+
 *Harpoon Term* is a friendly fork of the `harpoon.term` module from
 [harpoon](https://github.com/ThePrimeagent/harpoon).
 

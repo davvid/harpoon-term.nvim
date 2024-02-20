@@ -1,7 +1,9 @@
-*harpoon-term.txt*             Fork of the harpoon.term module from Harpoon v1
+*harpoon-term.txt*                                   Quickly jump to terminals
 
 ==============================================================================
 1. harpoon-term                                    *harpoon-term-harpoon-term*
+
+Quickly jump to terminals.
 
 _Harpoon Term_ is a friendly fork of the `harpoon.term` module from harpoon
 <https://github.com/ThePrimeagent/harpoon>.

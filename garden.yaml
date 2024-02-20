@@ -30,7 +30,7 @@ trees:
         - doc/post
       doc/build: |
         panvimdoc.sh \
-          --description ' Fork of the harpoon.term module from Harpoon v1' \
+          --description 'Quickly jump to terminals' \
           --input-file README.md \
           --project-name ${TREE_NAME} \
           --toc false
